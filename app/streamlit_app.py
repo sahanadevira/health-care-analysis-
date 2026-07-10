@@ -8,7 +8,7 @@ st.set_page_config(page_title="Care Load Analytics", layout="wide")
 st.title("📊 System Capacity & Care Load Analytics for Unaccompanied Children")
 
 # Find the project folder
-BASE_DIR = Path(file).resolve().parent.parent
+BASE_DIR = Path(__file__).resolve().parent.parent
 csv_path = BASE_DIR / "data" / "HHS_Unaccompanied_Alien_Children_Program.csv"
 
 df = pd.read_csv(csv_path)
