@@ -31,7 +31,7 @@ The Health Care Analysis project focuses on analyzing healthcare data to identif
 - Interactive Charts and Graphs
 - Dashboard with Streamlit
 - Key Insights and Trends
-- 
+ 
 ## Project Structure
 ```
 Health-Care-Analysis/
