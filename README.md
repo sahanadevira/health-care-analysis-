@@ -33,7 +33,7 @@ The Health Care Analysis project focuses on analyzing healthcare data to identif
 - Key Insights and Trends
 
 ---
-
+```
 ## Project Structure
 
 Health-Care-Analysis/
@@ -43,7 +43,7 @@ Health-Care-Analysis/
 │── README.md
 └── assets/
 ---
-
+```
 ## Installation
 
 1. Clone the repository
